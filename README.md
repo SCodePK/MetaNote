@@ -36,8 +36,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 
 ## Testing and Limitations
-
+The model has been tested with audio clips ranging from 14 to 90 minutes in length.
 ## Note
-The model has been tested with audio clips up to 90 minutes in length. Note: Due to file size limitations, the actual large files used for testing could not be uploaded to GitHub.
-For Screenshots Check Images
+ Note: Due to file size limitations, the actual large files used for testing could not be uploaded to GitHub. For screenshots, please refer to the Images folder.
 
