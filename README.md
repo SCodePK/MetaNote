@@ -40,22 +40,18 @@ OPENAI_API_KEY=your_openai_api_key
 
 <p align="center">
 <img width="960" alt="Start" src="images\startup.png">
-Display of Start Page
+# Display of Start Page
 </p>
 
-<p align="center">
-<img width="960" alt="PDF Summary" src="images\pdf_summary.png">
-Display of PDF Summary
-</p>
 
 <p align="center">
 <img width="960" alt="Extractive" src="images\audio_summary.png">
-Display of Extractive Summary
+# Display of Extractive Summary
 </p>
 
 <p align="center">
 <img width="960" alt="Extractive" src="images\abstractive_summary.png">
-Display of Abstractive Summary
+#Display of Abstractive Summary
 </p>
 
 <p align="center">
