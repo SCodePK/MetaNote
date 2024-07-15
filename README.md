@@ -31,38 +31,13 @@ Abstractive summarization generates a summary by paraphrasing and restructuring 
 DEEPSPEECH_API_KEY=your_deepspeech_api_key
 OPENAI_API_KEY=your_openai_api_key
 
-
 4. __Streamlit run:__
 `streamlit run app.py`
 
 
-## Screenshots 📸
-
-<p align="center">
-<img width="960" alt="Start" src="images\startup.png">
-# Display of Start Page
-</p>
-
-
-<p align="center">
-<img width="960" alt="Extractive" src="images\audio_summary.png">
-# Display of Extractive Summary
-</p>
-
-<p align="center">
-<img width="960" alt="Extractive" src="images\abstractive_summary.png">
-#Display of Abstractive Summary
-</p>
-
-<p align="center">
-<img width="960" alt="Extractive" src="images\action_items.png">
-Display of Action items
-</p>
-
 ## Testing and Limitations
 
-# Note
-
+## Note
 The model has been tested with audio clips up to 90 minutes in length. Note: Due to file size limitations, the actual large files used for testing could not be uploaded to GitHub.
-
+For Screenshot Check Images
 
